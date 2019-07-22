@@ -4,6 +4,8 @@ This is an interpretation of the National Resident Matching Program's matching a
 
 To try it out, modify the ArrayLists `processApplicants` and `processPrograms` in TestMatcher.java and compile/run it.
 
+![alt text](https://i.imgur.com/7LvmjFs.png)
+
 More information can be found here:
 
 https://www.youtube.com/watch?v=kvgfgGmemdA
