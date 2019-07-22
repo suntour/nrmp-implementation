@@ -2,7 +2,7 @@
 
 This is an interpretation of the National Resident Matching Program's matching algorithm.
 
-To try it out, modify processApplicants and processPrograms in TestMatcher.java
+To try it out, modify the ArrayLists `processApplicants` and `processPrograms` in TestMatcher.java and compile/run it.
 
 More information can be found here:
 
